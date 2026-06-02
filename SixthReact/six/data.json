@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pride and Prejudice",
+      "price": 12.99,
+      "photoURL": "https://m.media-amazon.com/images/I/71CvWDPcVEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Moby-Dick",
+      "price": 14.5,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0142437247-L.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alice's Adventures in Wonderland",
+      "price": 9.99,
+      "photoURL": "https://images-us.bookshop.org/ingram/9780062315007.jpg?v=f1aceeb9d343edbc4699a34150b9b46d&height=500"
+    },
+    {
+      "id": 4,
+      "name": "Frankenstein; or, The Modern Prometheus",
+      "price": 11.5,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0143131842-L.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dracula",
+      "price": 10.75,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0141439844-L.jpg"
+    },
+    {
+      "id": 6,
+      "name": "War and Peace",
+      "price": 18.0,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0199232768-L.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Great Expectations",
+      "price": 13.25,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0141439564-L.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Adventures of Sherlock Holmes",
+      "price": 15.0,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0486280616-L.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Odyssey",
+      "price": 16.5,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0140268863-L.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Picture of Dorian Gray",
+      "price": 12.0,
+      "photoURL": "https://covers.openlibrary.org/b/isbn/0141439572-L.jpg"
+    }
+  ]
+}
